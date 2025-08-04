@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+requests
+rdflib
+obonet
+more-itertools
+sentence-transformers
+pyarrow
